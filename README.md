@@ -13,6 +13,8 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 This simulation follows these rules and allows for user interaction to create custom patterns.
 
+![GOL](https://raw.githubusercontent.com/dhawal-pandya/Game-Of-Life-Go/refs/heads/main/Screenshot%202025-03-14%20at%2013.44.29.png)
+
 ## Features
 
 - Click and drag to toggle cell states.
